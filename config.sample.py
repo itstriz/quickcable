@@ -1,0 +1,2 @@
+IG_CLIENT_ID = ''
+IG_CLIENT_SECRET = ''
